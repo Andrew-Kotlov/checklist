@@ -1,0 +1,39 @@
+{
+  "folders": [
+    {
+      "name": "Папка Documents",
+      "path": "C:\\Users\\%USERNAME%\\Documents"
+    },
+    {
+      "name": "Папка для проектов",
+      "path": "D:\\Projects"
+    },
+    {
+      "name": "Временные файлы",
+      "path": "C:\\Temp"
+    }
+  ],
+  "programs": [
+    {
+      "name": "Google Chrome",
+      "exe": "chrome.exe",
+      "paths": [
+        "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+      ]
+    },
+    {
+      "name": "Visual Studio Code",
+      "exe": "Code.exe",
+      "paths": [
+        "C:\\Program Files\\Microsoft VS Code\\Code.exe",
+        "%LOCALAPPDATA%\\Programs\\Microsoft VS Code\\Code.exe"
+      ]
+    },
+    {
+      "name": "Node.js",
+      "exe": "node.exe",
+      "command": "node --version"
+    }
+  ]
+}
